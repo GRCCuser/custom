@@ -3,7 +3,7 @@
   <groupId>ru.grcc</groupId>
   <artifactId>graphstore</artifactId>
   <versioning>
-    <release>1.6</release>
+    <release>1.6.3</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
@@ -12,7 +12,8 @@
       <version>1.4</version>
       <version>1.5</version>
       <version>1.6</version>
+      <version>1.6.3</version>
     </versions>
-    <lastUpdated>20170731140946</lastUpdated>
+    <lastUpdated>20170802110611</lastUpdated>
   </versioning>
 </metadata>
